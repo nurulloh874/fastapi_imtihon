@@ -6,26 +6,36 @@ Bu loyiha **FastAPI** yordamida imtihon topshirish uchun ishlab chiqilgan. Loyih
 
 ## 🚀 Ishga tushirish bo‘yicha yo‘riqnoma
 
-✅ Talab qilinadigan kutubxonalar:
+1️⃣ Talab qilinadigan kutubxonalar:
 Kutubxona	Nima uchun kerak
-fastapi	API framework uchun
-uvicorn	Serverni ishga tushirish uchun
-sqlalchemy	Ma'lumotlar bazasi bilan ishlash uchun
+
+1️⃣ fastapi	API framework uchun
+
+2️⃣ uvicorn	Serverni ishga tushirish uchun
+
+3️⃣ sqlalchemy	Ma'lumotlar bazasi bilan ishlash uchun
+
 pydantic	Ma'lumotlarni validatsiya qilish uchun
 
-🧩 O‘rnatish usuli
-1️⃣ Birma-bir o‘rnatish:
+2️⃣ O‘rnatish usuli Birma-bir o‘rnatish:
 
-pip install fastapi
-pip install uvicorn
-pip install sqlalchemy
-pip install pydantic
+1️⃣ pip install fastapi
 
-2️⃣requirements.txt fayl yaratib, ichiga yozing:
-fastapi
-uvicorn
-sqlalchemy
-pydantic
+2️⃣ pip install uvicorn
+
+3️⃣ pip install sqlalchemy
+
+4️⃣ pip install pydantic
+
+3️⃣ requirements.txt fayl yaratib, ichiga yozing:
+
+1️⃣ fastapi
+
+2️⃣ uvicorn
+
+3️⃣ sqlalchemy
+
+4️⃣ pydantic
 
 So‘ng terminalda quyidagini yozing:
 
